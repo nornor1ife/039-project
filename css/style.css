@@ -1,7 +1,7 @@
 /* ส่วนหัว */
 header {
   background-color: transparent;
-  color: rgb(0, 0, 0);
+  color: rgb(255, 255, 255);
   position: relative;
   text-align: center;
   padding: 40px 20px;
@@ -50,7 +50,7 @@ aside {
 
 /* สีตัวอักษรเมนูด้านซ้าย */
 aside a {
-  color: #000000;
+  color: #ffffff;
   text-decoration: underline;
 }
 

@@ -2,7 +2,7 @@
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     background-color: #f0d7f7;
-    color: #b771c0; 
+    color: #9d6ec9; 
     margin: 0;
     padding: 0;
     display: flex;
@@ -14,7 +14,7 @@ body {
 
 /* style สำหรับ header */
 header {
-    background-color: #d189e0; 
+    background-color: #8347bb; 
     width: 100%;
     padding: 20px 0;
     box-shadow: 0 2px 5px rgba(0,0,0,0.1);
@@ -32,10 +32,10 @@ h1 {
 /* style สำหรับ main และ p */
 main {
     margin-top: 30px;
-    background-color: #d6b3f2; 
+    background-color: #af6de6; 
     padding: 20px 40px;
     border-radius: 15px;
-    box-shadow: 0 4px 8px rgba(204, 137, 224, 0.541);
+    box-shadow: 0 4px 8px rgba(151, 86, 170, 0.541);
 }
 
 p {
